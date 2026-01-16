@@ -1,12 +1,6 @@
 <div align="center">
 
-```
- ___  _      ___  _  _  _  _  ___  ___  ___  _  _  ___
-| _ \| |    /   \| \| || || || _ \|_ _|/  _\| || ||_ _|
-|  _/| |__  | - |`\  / V  V /|   / | | | |_n| >< | | |
-|_|  |____||_|_\_\ |_| \_/\_/ |_|_\|___|\__/|_||_| |_|
-                    ─── TOOLS ───
-```
+# 🎭 PLAYWRIGHT TOOLS
 
 **Deep uninstall, clean install, and find traces of Playwright on macOS**
 
