@@ -1,13 +1,13 @@
 <div align="center">
 
-# 🎭 PLAYWRIGHT TOOLS
+## 🎭 PLAYWRIGHT TOOLS
 
 **Deep uninstall, clean install, and find traces of Playwright on macOS**
 
-[![Platform](https://img.shields.io/badge/platform-macOS-blue?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
-[![Shell](https://img.shields.io/badge/shell-bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![License](https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge)](LICENSE)
-[![Node.js](https://img.shields.io/badge/node.js-only-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Platform](https://img.shields.io/badge/platform-macOS-blue?style=flat&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+[![Shell](https://img.shields.io/badge/shell-bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![License](https://img.shields.io/badge/license-MIT-yellow?style=flat)](LICENSE)
+[![Node.js](https://img.shields.io/badge/node.js-only-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 
 </div>
 
